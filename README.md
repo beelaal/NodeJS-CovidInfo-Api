@@ -1,4 +1,4 @@
-My Test Portal Backend
+CovidAPI Backend
 ==================================
 
 > This repo contains the Covid Info API
